@@ -1,0 +1,2 @@
+# ArchRiceBlue
+Arch linux rice
